@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.searchCity{
+  padding:10px;
+  text-align: center;
+}
+
+p{
+  padding-top: 5px;
+  text-align: center;
+}
+
+.cityName {
+  text-align: center;
+  padding-top: 30px;
+}
+
+i{
+  padding :35px 47%;
+}
+
+.exactTemp{
+  text-align: center;
+}
+
+.temp{
+  padding-top: 20px;
+  text-align: center;
+}
+
+.mixTemp{
+  padding-left: 50px;
+}
+
+.weatherStatus{
+  padding-top: 20px;
+  text-align: center;
+}
+
+/* .weather-app{
+  outline: 2px solid;
+  padding-top: 100px; 
+  background-image: url("./images/mountain.jpg");
+  height: 500px;
+  width: 400px;
+  text-align: center;
+
+} */
